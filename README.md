@@ -10,11 +10,11 @@ Optimize Android emulator performance on any developer machine. Dynamically sele
 ## Install
 
 ```bash
-npx skills add osos/dev-skills
+npx skills add egyleader/skills
 ```
 
 Install a single skill:
 
 ```bash
-npx skills add osos/dev-skills --skill android-emulator-optimize
+npx skills add egyleader/skills --skill android-emulator-optimize
 ```
