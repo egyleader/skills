@@ -1,0 +1,12 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "groupings": [
+    {
+      "title": "Mobile & Dev Tooling",
+      "description": "Skills for mobile app development and developer environment setup.",
+      "skills": [
+        "android-emulator-optimize"
+      ]
+    }
+  ]
+}
